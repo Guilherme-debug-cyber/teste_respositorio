@@ -51,3 +51,7 @@ btn_calcular.grid(row=3, column=0, columnspan=2, pady=10)
 
 # Inicia o loop principal da interface
 janela.mainloop()
+
+
+
+teste de alteração
